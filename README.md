@@ -24,8 +24,8 @@ Before you begin, ensure you have the following installed:
  
 2. **Install dependencies:**
 
- -If you are using npm: <bold>npm install</bold>
- -If you are using yarn: <bold>yarn install</bold>
+  - If you are using npm: <bold>npm install</bold></br>
+  - If you are using yarn: <bold>yarn install</bold>
 
 ### Running the Project
 
